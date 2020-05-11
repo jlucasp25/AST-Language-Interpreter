@@ -1,0 +1,1 @@
+fn main() { let c = 5 ; read_line ( a ) ; println! ( a ) ; println! ( c ) }
