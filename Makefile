@@ -19,6 +19,3 @@ clean:
 
 test: $(PROGRAM)
 	$(PROGRAM) example1.txt
-	$(PROGRAM) example2.txt
-	$(PROGRAM) example3.txt
-	$(PROGRAM) example4.txt
